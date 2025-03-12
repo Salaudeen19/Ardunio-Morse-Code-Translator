@@ -1,0 +1,24 @@
+## Components Used
+### Required Components  
+- **Arduino Board** (Uno, Mega, or compatible microcontroller)  
+- **Push Button** (Used to input Morse code - dot/dash)  
+- **16x2 LCD Display** or **OLED Display** (Displays translated English text)  
+- **Resistors**:  
+  - 10kΩ (for button pull-down)  
+  - 220Ω (for LCD backlight)  
+- **Buzzer (Optional)** (For sound feedback on Morse code input)  
+- **Breadboard** (For prototyping the circuit connections)  
+- **Jumper Wires** (Male-to-male and male-to-female for connections)  
+- **Potentiometer (for LCD brightness)** (10kΩ, adjusts LCD contrast)  
+
+### Additional Tools  
+- **USB Cable** (To connect Arduino to PC for programming)  
+- **Soldering Kit** (If making a permanent circuit)  
+- **Multimeter** (To check connections)  
+
+## Circuit Diagram
+- Refer Connections.jpg file
+
+
+
+
